@@ -2,6 +2,8 @@
 
 require_once("../common/connection.php");
 
+sleep('1');
+
 $db = new DbConnect($admin, $pass);
 
 $db_name = $_GET['db_name'];
