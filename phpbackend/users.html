@@ -14,17 +14,36 @@
   <!-- javscript-->
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <script src="js/users.js"></script>
+  <script src="js/user/create_user.js"></script>
+  <script src="js/user/show_users.js"></script>
+  <script src="js/user/delete_user.js"></script>
+  <script src="js/user/users.js"></script>
 </head>
 
 <body class="container">
 
   <div class="jumbotron">
-    <h1>Welcome to phpbackend</h1>
-    <p>This site will demo stuff</p>
+    <h1>MANAGE USERS</h1>
+    <p class="alert alert-danger">WARNING - DO NOT DEPLOY...</p>
   </div>
 
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam nam et rem, aspernatur accusantium fugit dolorum itaque adipisci dolore vero, eos facere ullam, expedita totam fuga ad ea aperiam harum.</p>
+<input class = "form-control" type = "text" id = "user_name">
+<button class = "btn btn-primary" id = "create_user">Create User</button>
+
+  <table class="table">
+
+    <thead>
+      <tr>
+        <th> user name </th>
+        <th></th>
+      </tr>
+    </thead>
+
+    <tbody>
+
+    </tbody>
+
+  </table>
 
 </body>
 
