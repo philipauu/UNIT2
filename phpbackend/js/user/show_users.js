@@ -10,12 +10,12 @@ function show_users(data) {
     var tr = $('<tr>'); // make empty table row
     var td = $('<td>'); // make first td
 
-    td.text(data[counter].Database); // add name of db
+    td.text(data[counter].User); // add name of db
     tr.append(td); // add td to row
 
     td = $('<td>'); // make second td to hold delete button
 
-    var btn = $('<button class = "delete" id="' + data[counter].Database + '">delete</button>');
+    var btn = $('<button class = "delete" id="' + data[counter].User + '">delete</button>');
 
     td.append(btn);
     tr.append(td);
