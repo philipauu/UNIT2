@@ -1,5 +1,5 @@
 function create_user() {
-  console.log('insde create_user');
+  console.log('inside create_user');
   var user = $('#user_name').val();
   var pass = $('#user_pass').val();
   var data = {
@@ -7,7 +7,7 @@ function create_user() {
     user_pass: pass
   };
 
-  $.get('backend/manage_user/create_user.php', data).done(created_user).fail(blow_up);
+  $.get('backend/manage_users/create_users.php', data).done(created_user).fail(blow_up);
   $('#create_user').removeClass('btn-primary').addClass('btn-warning').text('Creating...');
 }
 
