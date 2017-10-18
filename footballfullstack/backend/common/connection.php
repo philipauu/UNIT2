@@ -34,4 +34,4 @@ public function kill(){
 }
 
 }
-//$myconnection = new DbConnect ("root", "Fabregas8");
+//$myconnection = new DbConnect ("phil", "1234");
