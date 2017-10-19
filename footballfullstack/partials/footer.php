@@ -4,7 +4,7 @@
           <span class="glyphicon glyphicon-chevron-up"></span>
         </a>
 
-  <p>Bootstrap Theme Made By Phil</a>
+  <p>BACK TO TOP</a>
   </p>
 
 </footer>
