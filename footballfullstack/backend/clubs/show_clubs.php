@@ -1,6 +1,7 @@
 <?php
 
 require_once('../common/connection.php');
+require_once('../common/logger.php');
 
 $db = new DbConnect($app_user, $app_pass);
 

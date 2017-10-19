@@ -4,19 +4,20 @@ $(document).ready(setup);
 
 function setup(){
     console.log('Inside setup');
-    check_backend();
+    show_clubs();
 }
 
-function check_backend(){
-    console.log('Inside check_backend');
-    $.get('backend/common/check.php').done(success).fail(fail);
-}
+function show_clubs(){
+  console.log('inside show_clubs');
+  $.get('backend/clubs/show_clubs.php').done(display_clubs).fail(blow_up);
+  }
 
-function success(data){
-    console.log(data);
-}
+function display_clubs(data){
+  console.log('inside display_clubs');
+  console.log(data); // hopefully shows a list of clubs
+  }
 
-function fail(data){
-    console.log('oops...');
-    console.log(data);
-}
+function blow_up(data){
+  console.log('inside blow_up');
+  console.log(data);
+  }
