@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>phpbackend</title>
@@ -16,16 +13,3 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script src="js/javascript.js"></script>
 </head>
-
-<body class="container">
-
-  <div class="jumbotron">
-    <h1>Under 23 Players</h1>
-    <p>This site will show players under age 23</p>
-  </div>
-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam nam et rem, aspernatur accusantium fugit dolorum itaque adipisci dolore vero, eos facere ullam, expedita totam fuga ad ea aperiam harum.</p>
-
-</body>
-
-</html>

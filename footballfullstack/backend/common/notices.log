@@ -5646,3 +5646,8869 @@ line 14 (show_clubs.php) Array
 
 )
 
+line 5 (connection.php) loaded connection script!
+line 20 (connection.php) Connected successfully
+line 14 (show_clubs.php) Array
+(
+    [0] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [1] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Verona
+            [1] => Verona
+        )
+
+    [2] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [3] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [4] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [5] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [6] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [7] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [8] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Getafe FC
+            [1] => Getafe FC
+        )
+
+    [9] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [10] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Leicester City
+            [1] => Leicester City
+        )
+
+    [11] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [12] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bayern Munchen
+            [1] => Bayern Munchen
+        )
+
+    [13] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Eibar
+            [1] => Eibar
+        )
+
+    [14] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [15] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [16] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [17] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Dortmund
+            [1] => Dortmund
+        )
+
+    [18] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Ath. Bilbao
+            [1] => Ath. Bilbao
+        )
+
+    [19] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [20] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [21] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [22] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Bologna
+            [1] => Bologna
+        )
+
+    [23] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Huddersfield
+            [1] => Huddersfield
+        )
+
+    [24] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [25] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [26] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Southampton
+            [1] => Southampton
+        )
+
+    [27] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [28] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Celta Vigo
+            [1] => Celta Vigo
+        )
+
+    [29] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [30] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Las Palmas
+            [1] => Las Palmas
+        )
+
+    [31] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Manchester United
+            [1] => Manchester United
+        )
+
+    [32] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Everton
+            [1] => Everton
+        )
+
+    [33] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [34] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => VfB Stuttgart
+            [1] => VfB Stuttgart
+        )
+
+    [35] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [36] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [37] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [38] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [39] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Barcelona
+            [1] => Barcelona
+        )
+
+    [40] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Monaco
+            [1] => Monaco
+        )
+
+    [41] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sampdoria
+            [1] => Sampdoria
+        )
+
+    [42] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [43] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [44] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [45] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [46] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [47] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Troyes
+            [1] => Troyes
+        )
+
+    [48] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [49] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bayer Leverkusen
+            [1] => Bayer Leverkusen
+        )
+
+    [50] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => OGC Nice
+            [1] => OGC Nice
+        )
+
+    [51] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [52] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Lyon
+            [1] => Lyon
+        )
+
+    [53] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [54] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bournemouth
+            [1] => Bournemouth
+        )
+
+    [55] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [56] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Fiorentina
+            [1] => Fiorentina
+        )
+
+    [57] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [58] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [59] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [60] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Malaga
+            [1] => Malaga
+        )
+
+    [61] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [62] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [63] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Cyrstal Palace
+            [1] => Cyrstal Palace
+        )
+
+    [64] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [65] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [66] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Benevento
+            [1] => Benevento
+        )
+
+    [67] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Monchengladbach
+            [1] => Monchengladbach
+        )
+
+    [68] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [69] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Chelsea
+            [1] => Chelsea
+        )
+
+    [70] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Sevilla
+            [1] => Sevilla
+        )
+
+    [71] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Napoli
+            [1] => Napoli
+        )
+
+    [72] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [73] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Madrid
+            [1] => Real Madrid
+        )
+
+    [74] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [75] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [76] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Sociedad
+            [1] => Real Sociedad
+        )
+
+    [77] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Alaves
+            [1] => Alaves
+        )
+
+    [78] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Manchester City
+            [1] => Manchester City
+        )
+
+    [79] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [80] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [81] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [82] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Inter Milan
+            [1] => Inter Milan
+        )
+
+    [83] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [84] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [85] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [86] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [87] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Girona
+            [1] => Girona
+        )
+
+    [88] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [89] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [90] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [91] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Chievo
+            [1] => Chievo
+        )
+
+    [92] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => AC Milan
+            [1] => AC Milan
+        )
+
+    [93] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [94] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bordeaux
+            [1] => Bordeaux
+        )
+
+    [95] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Udinese
+            [1] => Udinese
+        )
+
+    [96] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [97] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Burnley FC
+            [1] => Burnley FC
+        )
+
+    [98] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => LOSC
+            [1] => LOSC
+        )
+
+    [99] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+)
+
+line 5 (connection.php) loaded connection script!
+line 20 (connection.php) Connected successfully
+line 14 (show_clubs.php) Array
+(
+    [0] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [1] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Verona
+            [1] => Verona
+        )
+
+    [2] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [3] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [4] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [5] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [6] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [7] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [8] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Getafe FC
+            [1] => Getafe FC
+        )
+
+    [9] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [10] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Leicester City
+            [1] => Leicester City
+        )
+
+    [11] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [12] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bayern Munchen
+            [1] => Bayern Munchen
+        )
+
+    [13] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Eibar
+            [1] => Eibar
+        )
+
+    [14] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [15] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [16] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [17] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Dortmund
+            [1] => Dortmund
+        )
+
+    [18] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Ath. Bilbao
+            [1] => Ath. Bilbao
+        )
+
+    [19] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [20] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [21] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [22] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Bologna
+            [1] => Bologna
+        )
+
+    [23] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Huddersfield
+            [1] => Huddersfield
+        )
+
+    [24] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [25] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [26] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Southampton
+            [1] => Southampton
+        )
+
+    [27] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [28] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Celta Vigo
+            [1] => Celta Vigo
+        )
+
+    [29] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [30] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Las Palmas
+            [1] => Las Palmas
+        )
+
+    [31] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Manchester United
+            [1] => Manchester United
+        )
+
+    [32] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Everton
+            [1] => Everton
+        )
+
+    [33] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [34] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => VfB Stuttgart
+            [1] => VfB Stuttgart
+        )
+
+    [35] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [36] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [37] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [38] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [39] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Barcelona
+            [1] => Barcelona
+        )
+
+    [40] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Monaco
+            [1] => Monaco
+        )
+
+    [41] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sampdoria
+            [1] => Sampdoria
+        )
+
+    [42] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [43] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [44] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [45] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [46] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [47] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Troyes
+            [1] => Troyes
+        )
+
+    [48] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [49] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bayer Leverkusen
+            [1] => Bayer Leverkusen
+        )
+
+    [50] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => OGC Nice
+            [1] => OGC Nice
+        )
+
+    [51] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [52] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Lyon
+            [1] => Lyon
+        )
+
+    [53] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [54] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bournemouth
+            [1] => Bournemouth
+        )
+
+    [55] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [56] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Fiorentina
+            [1] => Fiorentina
+        )
+
+    [57] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [58] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [59] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [60] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Malaga
+            [1] => Malaga
+        )
+
+    [61] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [62] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [63] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Cyrstal Palace
+            [1] => Cyrstal Palace
+        )
+
+    [64] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [65] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [66] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Benevento
+            [1] => Benevento
+        )
+
+    [67] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Monchengladbach
+            [1] => Monchengladbach
+        )
+
+    [68] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [69] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Chelsea
+            [1] => Chelsea
+        )
+
+    [70] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Sevilla
+            [1] => Sevilla
+        )
+
+    [71] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Napoli
+            [1] => Napoli
+        )
+
+    [72] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [73] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Madrid
+            [1] => Real Madrid
+        )
+
+    [74] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [75] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [76] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Sociedad
+            [1] => Real Sociedad
+        )
+
+    [77] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Alaves
+            [1] => Alaves
+        )
+
+    [78] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Manchester City
+            [1] => Manchester City
+        )
+
+    [79] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [80] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [81] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [82] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Inter Milan
+            [1] => Inter Milan
+        )
+
+    [83] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [84] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [85] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [86] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [87] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Girona
+            [1] => Girona
+        )
+
+    [88] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [89] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [90] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [91] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Chievo
+            [1] => Chievo
+        )
+
+    [92] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => AC Milan
+            [1] => AC Milan
+        )
+
+    [93] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [94] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bordeaux
+            [1] => Bordeaux
+        )
+
+    [95] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Udinese
+            [1] => Udinese
+        )
+
+    [96] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [97] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Burnley FC
+            [1] => Burnley FC
+        )
+
+    [98] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => LOSC
+            [1] => LOSC
+        )
+
+    [99] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+)
+
+line 5 (connection.php) loaded connection script!
+line 20 (connection.php) Connected successfully
+line 14 (show_clubs.php) Array
+(
+    [0] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [1] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Verona
+            [1] => Verona
+        )
+
+    [2] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [3] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [4] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [5] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [6] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [7] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [8] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Getafe FC
+            [1] => Getafe FC
+        )
+
+    [9] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [10] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Leicester City
+            [1] => Leicester City
+        )
+
+    [11] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [12] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bayern Munchen
+            [1] => Bayern Munchen
+        )
+
+    [13] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Eibar
+            [1] => Eibar
+        )
+
+    [14] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [15] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [16] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [17] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Dortmund
+            [1] => Dortmund
+        )
+
+    [18] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Ath. Bilbao
+            [1] => Ath. Bilbao
+        )
+
+    [19] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [20] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [21] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [22] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Bologna
+            [1] => Bologna
+        )
+
+    [23] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Huddersfield
+            [1] => Huddersfield
+        )
+
+    [24] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [25] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [26] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Southampton
+            [1] => Southampton
+        )
+
+    [27] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [28] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Celta Vigo
+            [1] => Celta Vigo
+        )
+
+    [29] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [30] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Las Palmas
+            [1] => Las Palmas
+        )
+
+    [31] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Manchester United
+            [1] => Manchester United
+        )
+
+    [32] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Everton
+            [1] => Everton
+        )
+
+    [33] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [34] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => VfB Stuttgart
+            [1] => VfB Stuttgart
+        )
+
+    [35] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [36] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [37] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [38] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [39] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Barcelona
+            [1] => Barcelona
+        )
+
+    [40] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Monaco
+            [1] => Monaco
+        )
+
+    [41] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sampdoria
+            [1] => Sampdoria
+        )
+
+    [42] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [43] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [44] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [45] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [46] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [47] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Troyes
+            [1] => Troyes
+        )
+
+    [48] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [49] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bayer Leverkusen
+            [1] => Bayer Leverkusen
+        )
+
+    [50] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => OGC Nice
+            [1] => OGC Nice
+        )
+
+    [51] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [52] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Lyon
+            [1] => Lyon
+        )
+
+    [53] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [54] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bournemouth
+            [1] => Bournemouth
+        )
+
+    [55] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [56] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Fiorentina
+            [1] => Fiorentina
+        )
+
+    [57] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [58] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [59] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [60] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Malaga
+            [1] => Malaga
+        )
+
+    [61] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [62] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [63] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Cyrstal Palace
+            [1] => Cyrstal Palace
+        )
+
+    [64] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [65] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [66] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Benevento
+            [1] => Benevento
+        )
+
+    [67] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Monchengladbach
+            [1] => Monchengladbach
+        )
+
+    [68] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [69] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Chelsea
+            [1] => Chelsea
+        )
+
+    [70] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Sevilla
+            [1] => Sevilla
+        )
+
+    [71] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Napoli
+            [1] => Napoli
+        )
+
+    [72] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [73] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Madrid
+            [1] => Real Madrid
+        )
+
+    [74] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [75] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [76] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Sociedad
+            [1] => Real Sociedad
+        )
+
+    [77] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Alaves
+            [1] => Alaves
+        )
+
+    [78] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Manchester City
+            [1] => Manchester City
+        )
+
+    [79] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [80] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [81] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [82] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Inter Milan
+            [1] => Inter Milan
+        )
+
+    [83] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [84] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [85] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [86] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [87] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Girona
+            [1] => Girona
+        )
+
+    [88] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [89] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [90] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [91] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Chievo
+            [1] => Chievo
+        )
+
+    [92] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => AC Milan
+            [1] => AC Milan
+        )
+
+    [93] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [94] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bordeaux
+            [1] => Bordeaux
+        )
+
+    [95] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Udinese
+            [1] => Udinese
+        )
+
+    [96] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [97] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Burnley FC
+            [1] => Burnley FC
+        )
+
+    [98] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => LOSC
+            [1] => LOSC
+        )
+
+    [99] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+)
+
+line 5 (connection.php) loaded connection script!
+line 20 (connection.php) Connected successfully
+line 14 (show_clubs.php) Array
+(
+    [0] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [1] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Verona
+            [1] => Verona
+        )
+
+    [2] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [3] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [4] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [5] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [6] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [7] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [8] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Getafe FC
+            [1] => Getafe FC
+        )
+
+    [9] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [10] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Leicester City
+            [1] => Leicester City
+        )
+
+    [11] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [12] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bayern Munchen
+            [1] => Bayern Munchen
+        )
+
+    [13] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Eibar
+            [1] => Eibar
+        )
+
+    [14] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [15] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [16] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [17] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Dortmund
+            [1] => Dortmund
+        )
+
+    [18] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Ath. Bilbao
+            [1] => Ath. Bilbao
+        )
+
+    [19] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [20] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [21] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [22] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Bologna
+            [1] => Bologna
+        )
+
+    [23] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Huddersfield
+            [1] => Huddersfield
+        )
+
+    [24] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [25] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [26] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Southampton
+            [1] => Southampton
+        )
+
+    [27] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [28] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Celta Vigo
+            [1] => Celta Vigo
+        )
+
+    [29] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [30] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Las Palmas
+            [1] => Las Palmas
+        )
+
+    [31] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Manchester United
+            [1] => Manchester United
+        )
+
+    [32] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Everton
+            [1] => Everton
+        )
+
+    [33] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [34] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => VfB Stuttgart
+            [1] => VfB Stuttgart
+        )
+
+    [35] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [36] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [37] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [38] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [39] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Barcelona
+            [1] => Barcelona
+        )
+
+    [40] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Monaco
+            [1] => Monaco
+        )
+
+    [41] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sampdoria
+            [1] => Sampdoria
+        )
+
+    [42] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [43] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [44] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [45] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [46] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [47] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Troyes
+            [1] => Troyes
+        )
+
+    [48] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [49] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bayer Leverkusen
+            [1] => Bayer Leverkusen
+        )
+
+    [50] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => OGC Nice
+            [1] => OGC Nice
+        )
+
+    [51] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [52] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Lyon
+            [1] => Lyon
+        )
+
+    [53] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [54] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bournemouth
+            [1] => Bournemouth
+        )
+
+    [55] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [56] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Fiorentina
+            [1] => Fiorentina
+        )
+
+    [57] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [58] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [59] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [60] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Malaga
+            [1] => Malaga
+        )
+
+    [61] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [62] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [63] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Cyrstal Palace
+            [1] => Cyrstal Palace
+        )
+
+    [64] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [65] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [66] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Benevento
+            [1] => Benevento
+        )
+
+    [67] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Monchengladbach
+            [1] => Monchengladbach
+        )
+
+    [68] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [69] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Chelsea
+            [1] => Chelsea
+        )
+
+    [70] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Sevilla
+            [1] => Sevilla
+        )
+
+    [71] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Napoli
+            [1] => Napoli
+        )
+
+    [72] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [73] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Madrid
+            [1] => Real Madrid
+        )
+
+    [74] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [75] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [76] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Sociedad
+            [1] => Real Sociedad
+        )
+
+    [77] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Alaves
+            [1] => Alaves
+        )
+
+    [78] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Manchester City
+            [1] => Manchester City
+        )
+
+    [79] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [80] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [81] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [82] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Inter Milan
+            [1] => Inter Milan
+        )
+
+    [83] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [84] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [85] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [86] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [87] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Girona
+            [1] => Girona
+        )
+
+    [88] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [89] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [90] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [91] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Chievo
+            [1] => Chievo
+        )
+
+    [92] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => AC Milan
+            [1] => AC Milan
+        )
+
+    [93] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [94] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bordeaux
+            [1] => Bordeaux
+        )
+
+    [95] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Udinese
+            [1] => Udinese
+        )
+
+    [96] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [97] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Burnley FC
+            [1] => Burnley FC
+        )
+
+    [98] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => LOSC
+            [1] => LOSC
+        )
+
+    [99] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+)
+
+line 5 (connection.php) loaded connection script!
+line 20 (connection.php) Connected successfully
+line 14 (show_clubs.php) Array
+(
+    [0] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [1] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Verona
+            [1] => Verona
+        )
+
+    [2] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [3] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [4] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [5] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [6] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [7] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [8] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Getafe FC
+            [1] => Getafe FC
+        )
+
+    [9] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [10] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Leicester City
+            [1] => Leicester City
+        )
+
+    [11] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [12] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bayern Munchen
+            [1] => Bayern Munchen
+        )
+
+    [13] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Eibar
+            [1] => Eibar
+        )
+
+    [14] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [15] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [16] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [17] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Dortmund
+            [1] => Dortmund
+        )
+
+    [18] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Ath. Bilbao
+            [1] => Ath. Bilbao
+        )
+
+    [19] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [20] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [21] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [22] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Bologna
+            [1] => Bologna
+        )
+
+    [23] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Huddersfield
+            [1] => Huddersfield
+        )
+
+    [24] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [25] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [26] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Southampton
+            [1] => Southampton
+        )
+
+    [27] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [28] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Celta Vigo
+            [1] => Celta Vigo
+        )
+
+    [29] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [30] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Las Palmas
+            [1] => Las Palmas
+        )
+
+    [31] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Manchester United
+            [1] => Manchester United
+        )
+
+    [32] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Everton
+            [1] => Everton
+        )
+
+    [33] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [34] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => VfB Stuttgart
+            [1] => VfB Stuttgart
+        )
+
+    [35] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [36] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [37] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [38] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [39] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Barcelona
+            [1] => Barcelona
+        )
+
+    [40] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Monaco
+            [1] => Monaco
+        )
+
+    [41] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sampdoria
+            [1] => Sampdoria
+        )
+
+    [42] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [43] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [44] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [45] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [46] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [47] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Troyes
+            [1] => Troyes
+        )
+
+    [48] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [49] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bayer Leverkusen
+            [1] => Bayer Leverkusen
+        )
+
+    [50] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => OGC Nice
+            [1] => OGC Nice
+        )
+
+    [51] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [52] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Lyon
+            [1] => Lyon
+        )
+
+    [53] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [54] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bournemouth
+            [1] => Bournemouth
+        )
+
+    [55] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [56] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Fiorentina
+            [1] => Fiorentina
+        )
+
+    [57] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [58] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [59] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [60] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Malaga
+            [1] => Malaga
+        )
+
+    [61] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [62] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [63] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Cyrstal Palace
+            [1] => Cyrstal Palace
+        )
+
+    [64] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [65] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [66] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Benevento
+            [1] => Benevento
+        )
+
+    [67] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Monchengladbach
+            [1] => Monchengladbach
+        )
+
+    [68] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [69] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Chelsea
+            [1] => Chelsea
+        )
+
+    [70] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Sevilla
+            [1] => Sevilla
+        )
+
+    [71] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Napoli
+            [1] => Napoli
+        )
+
+    [72] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [73] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Madrid
+            [1] => Real Madrid
+        )
+
+    [74] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [75] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [76] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Sociedad
+            [1] => Real Sociedad
+        )
+
+    [77] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Alaves
+            [1] => Alaves
+        )
+
+    [78] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Manchester City
+            [1] => Manchester City
+        )
+
+    [79] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [80] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [81] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [82] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Inter Milan
+            [1] => Inter Milan
+        )
+
+    [83] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [84] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [85] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [86] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [87] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Girona
+            [1] => Girona
+        )
+
+    [88] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [89] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [90] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [91] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Chievo
+            [1] => Chievo
+        )
+
+    [92] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => AC Milan
+            [1] => AC Milan
+        )
+
+    [93] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [94] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bordeaux
+            [1] => Bordeaux
+        )
+
+    [95] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Udinese
+            [1] => Udinese
+        )
+
+    [96] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [97] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Burnley FC
+            [1] => Burnley FC
+        )
+
+    [98] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => LOSC
+            [1] => LOSC
+        )
+
+    [99] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+)
+
+line 5 (connection.php) loaded connection script!
+line 20 (connection.php) Connected successfully
+line 14 (show_clubs.php) Array
+(
+    [0] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [1] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Verona
+            [1] => Verona
+        )
+
+    [2] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [3] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [4] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [5] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [6] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [7] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [8] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Getafe FC
+            [1] => Getafe FC
+        )
+
+    [9] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [10] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Leicester City
+            [1] => Leicester City
+        )
+
+    [11] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [12] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bayern Munchen
+            [1] => Bayern Munchen
+        )
+
+    [13] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Eibar
+            [1] => Eibar
+        )
+
+    [14] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [15] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [16] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [17] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Dortmund
+            [1] => Dortmund
+        )
+
+    [18] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Ath. Bilbao
+            [1] => Ath. Bilbao
+        )
+
+    [19] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [20] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [21] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [22] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Bologna
+            [1] => Bologna
+        )
+
+    [23] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Huddersfield
+            [1] => Huddersfield
+        )
+
+    [24] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [25] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [26] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Southampton
+            [1] => Southampton
+        )
+
+    [27] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [28] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Celta Vigo
+            [1] => Celta Vigo
+        )
+
+    [29] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [30] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Las Palmas
+            [1] => Las Palmas
+        )
+
+    [31] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Manchester United
+            [1] => Manchester United
+        )
+
+    [32] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Everton
+            [1] => Everton
+        )
+
+    [33] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [34] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => VfB Stuttgart
+            [1] => VfB Stuttgart
+        )
+
+    [35] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [36] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [37] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [38] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [39] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Barcelona
+            [1] => Barcelona
+        )
+
+    [40] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Monaco
+            [1] => Monaco
+        )
+
+    [41] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sampdoria
+            [1] => Sampdoria
+        )
+
+    [42] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [43] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [44] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [45] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [46] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [47] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Troyes
+            [1] => Troyes
+        )
+
+    [48] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [49] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bayer Leverkusen
+            [1] => Bayer Leverkusen
+        )
+
+    [50] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => OGC Nice
+            [1] => OGC Nice
+        )
+
+    [51] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [52] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Lyon
+            [1] => Lyon
+        )
+
+    [53] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [54] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bournemouth
+            [1] => Bournemouth
+        )
+
+    [55] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [56] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Fiorentina
+            [1] => Fiorentina
+        )
+
+    [57] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [58] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [59] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [60] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Malaga
+            [1] => Malaga
+        )
+
+    [61] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [62] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [63] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Cyrstal Palace
+            [1] => Cyrstal Palace
+        )
+
+    [64] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [65] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [66] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Benevento
+            [1] => Benevento
+        )
+
+    [67] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Monchengladbach
+            [1] => Monchengladbach
+        )
+
+    [68] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [69] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Chelsea
+            [1] => Chelsea
+        )
+
+    [70] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Sevilla
+            [1] => Sevilla
+        )
+
+    [71] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Napoli
+            [1] => Napoli
+        )
+
+    [72] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [73] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Madrid
+            [1] => Real Madrid
+        )
+
+    [74] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [75] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [76] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Sociedad
+            [1] => Real Sociedad
+        )
+
+    [77] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Alaves
+            [1] => Alaves
+        )
+
+    [78] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Manchester City
+            [1] => Manchester City
+        )
+
+    [79] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [80] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [81] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [82] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Inter Milan
+            [1] => Inter Milan
+        )
+
+    [83] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [84] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [85] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [86] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [87] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Girona
+            [1] => Girona
+        )
+
+    [88] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [89] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [90] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [91] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Chievo
+            [1] => Chievo
+        )
+
+    [92] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => AC Milan
+            [1] => AC Milan
+        )
+
+    [93] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [94] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bordeaux
+            [1] => Bordeaux
+        )
+
+    [95] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Udinese
+            [1] => Udinese
+        )
+
+    [96] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [97] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Burnley FC
+            [1] => Burnley FC
+        )
+
+    [98] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => LOSC
+            [1] => LOSC
+        )
+
+    [99] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+)
+
+line 5 (connection.php) loaded connection script!
+line 20 (connection.php) Connected successfully
+line 14 (show_clubs.php) Array
+(
+    [0] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [1] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Verona
+            [1] => Verona
+        )
+
+    [2] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [3] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [4] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [5] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [6] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [7] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [8] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Getafe FC
+            [1] => Getafe FC
+        )
+
+    [9] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [10] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Leicester City
+            [1] => Leicester City
+        )
+
+    [11] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [12] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bayern Munchen
+            [1] => Bayern Munchen
+        )
+
+    [13] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Eibar
+            [1] => Eibar
+        )
+
+    [14] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [15] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [16] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [17] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Dortmund
+            [1] => Dortmund
+        )
+
+    [18] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Ath. Bilbao
+            [1] => Ath. Bilbao
+        )
+
+    [19] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [20] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [21] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [22] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Bologna
+            [1] => Bologna
+        )
+
+    [23] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Huddersfield
+            [1] => Huddersfield
+        )
+
+    [24] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [25] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [26] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Southampton
+            [1] => Southampton
+        )
+
+    [27] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [28] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Celta Vigo
+            [1] => Celta Vigo
+        )
+
+    [29] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [30] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Las Palmas
+            [1] => Las Palmas
+        )
+
+    [31] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Manchester United
+            [1] => Manchester United
+        )
+
+    [32] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Everton
+            [1] => Everton
+        )
+
+    [33] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [34] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => VfB Stuttgart
+            [1] => VfB Stuttgart
+        )
+
+    [35] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [36] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [37] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [38] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [39] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Barcelona
+            [1] => Barcelona
+        )
+
+    [40] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Monaco
+            [1] => Monaco
+        )
+
+    [41] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sampdoria
+            [1] => Sampdoria
+        )
+
+    [42] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [43] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [44] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [45] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [46] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [47] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Troyes
+            [1] => Troyes
+        )
+
+    [48] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [49] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bayer Leverkusen
+            [1] => Bayer Leverkusen
+        )
+
+    [50] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => OGC Nice
+            [1] => OGC Nice
+        )
+
+    [51] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [52] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Lyon
+            [1] => Lyon
+        )
+
+    [53] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [54] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bournemouth
+            [1] => Bournemouth
+        )
+
+    [55] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [56] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Fiorentina
+            [1] => Fiorentina
+        )
+
+    [57] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [58] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [59] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [60] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Malaga
+            [1] => Malaga
+        )
+
+    [61] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [62] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [63] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Cyrstal Palace
+            [1] => Cyrstal Palace
+        )
+
+    [64] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [65] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [66] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Benevento
+            [1] => Benevento
+        )
+
+    [67] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Monchengladbach
+            [1] => Monchengladbach
+        )
+
+    [68] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [69] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Chelsea
+            [1] => Chelsea
+        )
+
+    [70] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Sevilla
+            [1] => Sevilla
+        )
+
+    [71] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Napoli
+            [1] => Napoli
+        )
+
+    [72] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [73] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Madrid
+            [1] => Real Madrid
+        )
+
+    [74] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [75] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [76] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Sociedad
+            [1] => Real Sociedad
+        )
+
+    [77] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Alaves
+            [1] => Alaves
+        )
+
+    [78] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Manchester City
+            [1] => Manchester City
+        )
+
+    [79] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [80] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [81] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [82] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Inter Milan
+            [1] => Inter Milan
+        )
+
+    [83] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [84] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [85] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [86] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [87] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Girona
+            [1] => Girona
+        )
+
+    [88] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [89] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [90] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [91] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Chievo
+            [1] => Chievo
+        )
+
+    [92] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => AC Milan
+            [1] => AC Milan
+        )
+
+    [93] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [94] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bordeaux
+            [1] => Bordeaux
+        )
+
+    [95] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Udinese
+            [1] => Udinese
+        )
+
+    [96] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [97] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Burnley FC
+            [1] => Burnley FC
+        )
+
+    [98] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => LOSC
+            [1] => LOSC
+        )
+
+    [99] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+)
+
+line 5 (connection.php) loaded connection script!
+line 20 (connection.php) Connected successfully
+line 14 (show_clubs.php) Array
+(
+    [0] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [1] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Verona
+            [1] => Verona
+        )
+
+    [2] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [3] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [4] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [5] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [6] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [7] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [8] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Getafe FC
+            [1] => Getafe FC
+        )
+
+    [9] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [10] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Leicester City
+            [1] => Leicester City
+        )
+
+    [11] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [12] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bayern Munchen
+            [1] => Bayern Munchen
+        )
+
+    [13] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Eibar
+            [1] => Eibar
+        )
+
+    [14] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [15] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [16] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [17] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Dortmund
+            [1] => Dortmund
+        )
+
+    [18] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Ath. Bilbao
+            [1] => Ath. Bilbao
+        )
+
+    [19] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [20] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [21] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [22] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Bologna
+            [1] => Bologna
+        )
+
+    [23] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Huddersfield
+            [1] => Huddersfield
+        )
+
+    [24] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [25] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [26] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Southampton
+            [1] => Southampton
+        )
+
+    [27] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [28] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Celta Vigo
+            [1] => Celta Vigo
+        )
+
+    [29] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [30] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Las Palmas
+            [1] => Las Palmas
+        )
+
+    [31] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Manchester United
+            [1] => Manchester United
+        )
+
+    [32] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Everton
+            [1] => Everton
+        )
+
+    [33] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [34] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => VfB Stuttgart
+            [1] => VfB Stuttgart
+        )
+
+    [35] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [36] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [37] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [38] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [39] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Barcelona
+            [1] => Barcelona
+        )
+
+    [40] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Monaco
+            [1] => Monaco
+        )
+
+    [41] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sampdoria
+            [1] => Sampdoria
+        )
+
+    [42] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [43] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [44] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [45] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [46] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [47] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Troyes
+            [1] => Troyes
+        )
+
+    [48] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [49] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bayer Leverkusen
+            [1] => Bayer Leverkusen
+        )
+
+    [50] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => OGC Nice
+            [1] => OGC Nice
+        )
+
+    [51] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [52] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Lyon
+            [1] => Lyon
+        )
+
+    [53] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [54] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bournemouth
+            [1] => Bournemouth
+        )
+
+    [55] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [56] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Fiorentina
+            [1] => Fiorentina
+        )
+
+    [57] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [58] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [59] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [60] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Malaga
+            [1] => Malaga
+        )
+
+    [61] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [62] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [63] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Cyrstal Palace
+            [1] => Cyrstal Palace
+        )
+
+    [64] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [65] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [66] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Benevento
+            [1] => Benevento
+        )
+
+    [67] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Monchengladbach
+            [1] => Monchengladbach
+        )
+
+    [68] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [69] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Chelsea
+            [1] => Chelsea
+        )
+
+    [70] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Sevilla
+            [1] => Sevilla
+        )
+
+    [71] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Napoli
+            [1] => Napoli
+        )
+
+    [72] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [73] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Madrid
+            [1] => Real Madrid
+        )
+
+    [74] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [75] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [76] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Sociedad
+            [1] => Real Sociedad
+        )
+
+    [77] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Alaves
+            [1] => Alaves
+        )
+
+    [78] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Manchester City
+            [1] => Manchester City
+        )
+
+    [79] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [80] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [81] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [82] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Inter Milan
+            [1] => Inter Milan
+        )
+
+    [83] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [84] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [85] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [86] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [87] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Girona
+            [1] => Girona
+        )
+
+    [88] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [89] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [90] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [91] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Chievo
+            [1] => Chievo
+        )
+
+    [92] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => AC Milan
+            [1] => AC Milan
+        )
+
+    [93] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [94] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bordeaux
+            [1] => Bordeaux
+        )
+
+    [95] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Udinese
+            [1] => Udinese
+        )
+
+    [96] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [97] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Burnley FC
+            [1] => Burnley FC
+        )
+
+    [98] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => LOSC
+            [1] => LOSC
+        )
+
+    [99] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+)
+
+line 5 (connection.php) loaded connection script!
+line 20 (connection.php) Connected successfully
+line 14 (show_clubs.php) Array
+(
+    [0] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [1] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Verona
+            [1] => Verona
+        )
+
+    [2] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [3] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [4] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [5] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [6] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [7] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [8] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Getafe FC
+            [1] => Getafe FC
+        )
+
+    [9] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [10] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Leicester City
+            [1] => Leicester City
+        )
+
+    [11] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [12] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bayern Munchen
+            [1] => Bayern Munchen
+        )
+
+    [13] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Eibar
+            [1] => Eibar
+        )
+
+    [14] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [15] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [16] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [17] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Dortmund
+            [1] => Dortmund
+        )
+
+    [18] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Ath. Bilbao
+            [1] => Ath. Bilbao
+        )
+
+    [19] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [20] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [21] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [22] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Bologna
+            [1] => Bologna
+        )
+
+    [23] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Huddersfield
+            [1] => Huddersfield
+        )
+
+    [24] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [25] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [26] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Southampton
+            [1] => Southampton
+        )
+
+    [27] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [28] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Celta Vigo
+            [1] => Celta Vigo
+        )
+
+    [29] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [30] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Las Palmas
+            [1] => Las Palmas
+        )
+
+    [31] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Manchester United
+            [1] => Manchester United
+        )
+
+    [32] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Everton
+            [1] => Everton
+        )
+
+    [33] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [34] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => VfB Stuttgart
+            [1] => VfB Stuttgart
+        )
+
+    [35] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [36] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [37] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [38] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [39] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Barcelona
+            [1] => Barcelona
+        )
+
+    [40] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Monaco
+            [1] => Monaco
+        )
+
+    [41] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sampdoria
+            [1] => Sampdoria
+        )
+
+    [42] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [43] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [44] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [45] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [46] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [47] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Troyes
+            [1] => Troyes
+        )
+
+    [48] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [49] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bayer Leverkusen
+            [1] => Bayer Leverkusen
+        )
+
+    [50] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => OGC Nice
+            [1] => OGC Nice
+        )
+
+    [51] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [52] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Lyon
+            [1] => Lyon
+        )
+
+    [53] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [54] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bournemouth
+            [1] => Bournemouth
+        )
+
+    [55] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [56] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Fiorentina
+            [1] => Fiorentina
+        )
+
+    [57] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [58] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [59] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [60] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Malaga
+            [1] => Malaga
+        )
+
+    [61] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [62] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [63] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Cyrstal Palace
+            [1] => Cyrstal Palace
+        )
+
+    [64] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [65] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [66] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Benevento
+            [1] => Benevento
+        )
+
+    [67] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Monchengladbach
+            [1] => Monchengladbach
+        )
+
+    [68] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [69] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Chelsea
+            [1] => Chelsea
+        )
+
+    [70] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Sevilla
+            [1] => Sevilla
+        )
+
+    [71] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Napoli
+            [1] => Napoli
+        )
+
+    [72] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [73] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Madrid
+            [1] => Real Madrid
+        )
+
+    [74] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [75] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [76] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Sociedad
+            [1] => Real Sociedad
+        )
+
+    [77] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Alaves
+            [1] => Alaves
+        )
+
+    [78] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Manchester City
+            [1] => Manchester City
+        )
+
+    [79] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [80] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [81] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [82] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Inter Milan
+            [1] => Inter Milan
+        )
+
+    [83] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [84] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [85] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [86] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [87] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Girona
+            [1] => Girona
+        )
+
+    [88] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [89] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [90] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [91] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Chievo
+            [1] => Chievo
+        )
+
+    [92] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => AC Milan
+            [1] => AC Milan
+        )
+
+    [93] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [94] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bordeaux
+            [1] => Bordeaux
+        )
+
+    [95] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Udinese
+            [1] => Udinese
+        )
+
+    [96] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [97] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Burnley FC
+            [1] => Burnley FC
+        )
+
+    [98] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => LOSC
+            [1] => LOSC
+        )
+
+    [99] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+)
+
+line 5 (connection.php) loaded connection script!
+line 20 (connection.php) Connected successfully
+line 14 (show_clubs.php) Array
+(
+    [0] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [1] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Verona
+            [1] => Verona
+        )
+
+    [2] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [3] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [4] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [5] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [6] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [7] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [8] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Getafe FC
+            [1] => Getafe FC
+        )
+
+    [9] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [10] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Leicester City
+            [1] => Leicester City
+        )
+
+    [11] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [12] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bayern Munchen
+            [1] => Bayern Munchen
+        )
+
+    [13] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Eibar
+            [1] => Eibar
+        )
+
+    [14] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [15] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [16] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [17] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Dortmund
+            [1] => Dortmund
+        )
+
+    [18] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Ath. Bilbao
+            [1] => Ath. Bilbao
+        )
+
+    [19] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [20] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [21] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [22] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Bologna
+            [1] => Bologna
+        )
+
+    [23] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Huddersfield
+            [1] => Huddersfield
+        )
+
+    [24] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [25] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [26] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Southampton
+            [1] => Southampton
+        )
+
+    [27] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [28] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Celta Vigo
+            [1] => Celta Vigo
+        )
+
+    [29] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [30] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Las Palmas
+            [1] => Las Palmas
+        )
+
+    [31] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Manchester United
+            [1] => Manchester United
+        )
+
+    [32] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Everton
+            [1] => Everton
+        )
+
+    [33] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [34] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => VfB Stuttgart
+            [1] => VfB Stuttgart
+        )
+
+    [35] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [36] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [37] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [38] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [39] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Barcelona
+            [1] => Barcelona
+        )
+
+    [40] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Monaco
+            [1] => Monaco
+        )
+
+    [41] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sampdoria
+            [1] => Sampdoria
+        )
+
+    [42] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [43] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [44] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [45] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [46] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [47] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Troyes
+            [1] => Troyes
+        )
+
+    [48] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [49] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bayer Leverkusen
+            [1] => Bayer Leverkusen
+        )
+
+    [50] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => OGC Nice
+            [1] => OGC Nice
+        )
+
+    [51] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [52] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Lyon
+            [1] => Lyon
+        )
+
+    [53] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [54] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bournemouth
+            [1] => Bournemouth
+        )
+
+    [55] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [56] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Fiorentina
+            [1] => Fiorentina
+        )
+
+    [57] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [58] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [59] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [60] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Malaga
+            [1] => Malaga
+        )
+
+    [61] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [62] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [63] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Cyrstal Palace
+            [1] => Cyrstal Palace
+        )
+
+    [64] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [65] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [66] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Benevento
+            [1] => Benevento
+        )
+
+    [67] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Monchengladbach
+            [1] => Monchengladbach
+        )
+
+    [68] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [69] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Chelsea
+            [1] => Chelsea
+        )
+
+    [70] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Sevilla
+            [1] => Sevilla
+        )
+
+    [71] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Napoli
+            [1] => Napoli
+        )
+
+    [72] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [73] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Madrid
+            [1] => Real Madrid
+        )
+
+    [74] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [75] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [76] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Sociedad
+            [1] => Real Sociedad
+        )
+
+    [77] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Alaves
+            [1] => Alaves
+        )
+
+    [78] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Manchester City
+            [1] => Manchester City
+        )
+
+    [79] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [80] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [81] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [82] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Inter Milan
+            [1] => Inter Milan
+        )
+
+    [83] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [84] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [85] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [86] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [87] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Girona
+            [1] => Girona
+        )
+
+    [88] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [89] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [90] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [91] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Chievo
+            [1] => Chievo
+        )
+
+    [92] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => AC Milan
+            [1] => AC Milan
+        )
+
+    [93] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [94] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bordeaux
+            [1] => Bordeaux
+        )
+
+    [95] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Udinese
+            [1] => Udinese
+        )
+
+    [96] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [97] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Burnley FC
+            [1] => Burnley FC
+        )
+
+    [98] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => LOSC
+            [1] => LOSC
+        )
+
+    [99] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+)
+
+line 5 (connection.php) loaded connection script!
+line 20 (connection.php) Connected successfully
+line 14 (show_clubs.php) Array
+(
+    [0] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [1] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Verona
+            [1] => Verona
+        )
+
+    [2] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [3] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [4] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [5] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [6] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [7] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [8] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Getafe FC
+            [1] => Getafe FC
+        )
+
+    [9] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [10] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Leicester City
+            [1] => Leicester City
+        )
+
+    [11] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [12] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bayern Munchen
+            [1] => Bayern Munchen
+        )
+
+    [13] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Eibar
+            [1] => Eibar
+        )
+
+    [14] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [15] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [16] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Torino
+            [1] => Torino
+        )
+
+    [17] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Dortmund
+            [1] => Dortmund
+        )
+
+    [18] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Ath. Bilbao
+            [1] => Ath. Bilbao
+        )
+
+    [19] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [20] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [21] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [22] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Bologna
+            [1] => Bologna
+        )
+
+    [23] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Huddersfield
+            [1] => Huddersfield
+        )
+
+    [24] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [25] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [26] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Southampton
+            [1] => Southampton
+        )
+
+    [27] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Atletico Madrid
+            [1] => Atletico Madrid
+        )
+
+    [28] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Celta Vigo
+            [1] => Celta Vigo
+        )
+
+    [29] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [30] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Las Palmas
+            [1] => Las Palmas
+        )
+
+    [31] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Manchester United
+            [1] => Manchester United
+        )
+
+    [32] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Everton
+            [1] => Everton
+        )
+
+    [33] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [34] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => VfB Stuttgart
+            [1] => VfB Stuttgart
+        )
+
+    [35] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [36] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [37] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Levante
+            [1] => Levante
+        )
+
+    [38] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [39] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Barcelona
+            [1] => Barcelona
+        )
+
+    [40] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Monaco
+            [1] => Monaco
+        )
+
+    [41] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sampdoria
+            [1] => Sampdoria
+        )
+
+    [42] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [43] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Nantes
+            [1] => Nantes
+        )
+
+    [44] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Sassuolo
+            [1] => Sassuolo
+        )
+
+    [45] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Arsenal
+            [1] => Arsenal
+        )
+
+    [46] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [47] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Troyes
+            [1] => Troyes
+        )
+
+    [48] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [49] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bayer Leverkusen
+            [1] => Bayer Leverkusen
+        )
+
+    [50] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => OGC Nice
+            [1] => OGC Nice
+        )
+
+    [51] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [52] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Lyon
+            [1] => Lyon
+        )
+
+    [53] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+    [54] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Bournemouth
+            [1] => Bournemouth
+        )
+
+    [55] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [56] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Fiorentina
+            [1] => Fiorentina
+        )
+
+    [57] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [58] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => SPAL
+            [1] => SPAL
+        )
+
+    [59] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => FC Augsburg
+            [1] => FC Augsburg
+        )
+
+    [60] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Malaga
+            [1] => Malaga
+        )
+
+    [61] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => SC Freiburg
+            [1] => SC Freiburg
+        )
+
+    [62] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Paris
+            [1] => Paris
+        )
+
+    [63] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Cyrstal Palace
+            [1] => Cyrstal Palace
+        )
+
+    [64] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Deportivo
+            [1] => Deportivo
+        )
+
+    [65] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [66] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Benevento
+            [1] => Benevento
+        )
+
+    [67] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Monchengladbach
+            [1] => Monchengladbach
+        )
+
+    [68] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Juventus
+            [1] => Juventus
+        )
+
+    [69] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Chelsea
+            [1] => Chelsea
+        )
+
+    [70] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Sevilla
+            [1] => Sevilla
+        )
+
+    [71] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Napoli
+            [1] => Napoli
+        )
+
+    [72] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Roma
+            [1] => Roma
+        )
+
+    [73] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Madrid
+            [1] => Real Madrid
+        )
+
+    [74] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [75] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [76] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Real Sociedad
+            [1] => Real Sociedad
+        )
+
+    [77] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Alaves
+            [1] => Alaves
+        )
+
+    [78] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Manchester City
+            [1] => Manchester City
+        )
+
+    [79] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [80] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Toulouse
+            [1] => Toulouse
+        )
+
+    [81] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Swansea City
+            [1] => Swansea City
+        )
+
+    [82] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => Inter Milan
+            [1] => Inter Milan
+        )
+
+    [83] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Stoke City
+            [1] => Stoke City
+        )
+
+    [84] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => Schalke 04
+            [1] => Schalke 04
+        )
+
+    [85] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [86] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Werder Bremen
+            [1] => Werder Bremen
+        )
+
+    [87] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Girona
+            [1] => Girona
+        )
+
+    [88] => Array
+        (
+            [nationality_id] => England
+            [0] => England
+            [clubs_id] => RB Leipzig
+            [1] => RB Leipzig
+        )
+
+    [89] => Array
+        (
+            [nationality_id] => France
+            [0] => France
+            [clubs_id] => Lazio
+            [1] => Lazio
+        )
+
+    [90] => Array
+        (
+            [nationality_id] => Brazil
+            [0] => Brazil
+            [clubs_id] => Hoffenheim
+            [1] => Hoffenheim
+        )
+
+    [91] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Chievo
+            [1] => Chievo
+        )
+
+    [92] => Array
+        (
+            [nationality_id] => Argentina
+            [0] => Argentina
+            [clubs_id] => AC Milan
+            [1] => AC Milan
+        )
+
+    [93] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Wolfsburg
+            [1] => Wolfsburg
+        )
+
+    [94] => Array
+        (
+            [nationality_id] => Italy
+            [0] => Italy
+            [clubs_id] => Bordeaux
+            [1] => Bordeaux
+        )
+
+    [95] => Array
+        (
+            [nationality_id] => Germany
+            [0] => Germany
+            [clubs_id] => Udinese
+            [1] => Udinese
+        )
+
+    [96] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => Caen
+            [1] => Caen
+        )
+
+    [97] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => Burnley FC
+            [1] => Burnley FC
+        )
+
+    [98] => Array
+        (
+            [nationality_id] => Spain
+            [0] => Spain
+            [clubs_id] => LOSC
+            [1] => LOSC
+        )
+
+    [99] => Array
+        (
+            [nationality_id] => Belgium
+            [0] => Belgium
+            [clubs_id] => St-Etienne
+            [1] => St-Etienne
+        )
+
+)
+
