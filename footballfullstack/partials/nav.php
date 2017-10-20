@@ -8,13 +8,34 @@
           </button>
       <a class="navbar-brand" href="#">Logo</a>
     </div>
-    
+
     <div class="collapse navbar-collapse" id="myNavbar">
 
-      <ul class="nav navbar-nav navbar-right">
+      <ul class="nav navbar-nav navbar-left">
         <li><a href="#">PLAYERS</a></li>
         <li><a href="#">SHORTLISTED</a></li>
       </ul>
+
+      <div id="login_div">
+
+        <div id="outside">
+          <input type="text" id="username" placeholder="enter username">
+          <input type="password" id="password" placeholder="enter password">
+
+          <button id="login">LOGIN</button>
+
+          <div id="message"</div>
+          </div>
+
+          <div id="inside">
+            <p>You are logged in!</p>
+            <button id="logout">LOGOUT</button>
+
+            <a href="page2.php">Go to page 2</a>
+          </div>
+
+      </div>
+
 </nav>
 
 <div id="about" class="container-fluid">

@@ -11,7 +11,7 @@ $result = $db -> conn -> query($sql);
 
 if ($result) {
   $output = $result -> fetchALL();
-  logger ($output);
+  //logger ($output);
   echo json_encode($output);
 // do true stuff
 } else {
